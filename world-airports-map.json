@@ -11,7 +11,7 @@
 ,"transform":{"scale":[0.014124293785310738,0.008187634415757927],"translate":[-180,-55.61015614321084]},"objects":{"countries1":{"type":"GeometryCollection","geometries":[
 
 
-{"arcs":[[11,12]],"type":"Polygon","properties":{"name":"LTN - London - Luton","Alpha-2":"Luton"},"id":"LTN"}
+{"arcs":[[0,1]],"type":"Polygon","properties":{"name":"LTN - London - Luton","Alpha-2":"Luton"},"id":"LTN"}
 
 
 
